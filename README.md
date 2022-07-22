@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at https://glittery-bienenstitch-254847.netlify.app
+- 👨‍💻 All of my projects are available at https://anuraggupta-portfolio.netlify.app/
 
 - 💬 Ask me about **react**
 
