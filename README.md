@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at https://anuraggupta-portfolio.netlify.app/
 
-- 💬 Ask me about **react**
+- ✍️ I regularly write article on https://medium.com/@anraggupta5504
 
 - 📫 How to reach me **anraggupta5504@gmail.com**
 
